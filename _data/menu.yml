@@ -1,0 +1,16 @@
+entries:
+  - title: journal
+    post_list: true
+  #      limit: 5
+  #      show_more: true
+  #      show_more_text: See archive...
+  #      show_more_url: archive.html
+
+  - title: me
+    entries:
+      - title: email
+        url: mailto:lamar.grimah@gmail.com
+      - title: "github: <a href='https://github.com/thenorthstar93'>@thenorthstar93</a>, <a href='https://github.com/calebgrimah'>@calebgrimah</a>"
+      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
+#        url: https://github.com/thenorthstar93 and https://github.com/calebgrimah
+#      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"

@@ -1,0 +1,27 @@
+---
+layout: post
+title: What This Blog Is
+category: intro
+---
+
+"Hello World", lamar here. I finally decided to start my personal blog(journal)😌. I would like tell you
+about my motivations for creating a blog and what the blog is about.
+
+---
+{: data-content="The Why"}
+
+I always find myself learning about something new, reading about a new technology and then jotting down my findings' in
+notebooks that I cannot find half of the time😌, I thought, there should a better way to do this, create a blog, write
+about something new I am learning about, this way, I get to have better recall for whatever I am learning and also
+always have a reference to it whenever I need it, some of you might find my words useful which is a win-win situation
+for me.
+---
+
+
+___
+{: data-content="The What"}
+
+This blog is a repository of my findings and learning as I try to grow and navigate my way around the world as an
+individual, software engineer. It is a place I can get to share my thoughts around any new technologies I encounter,
+situations, generally life as we know it. hopefully you might find it interesting too.
+
