@@ -71,8 +71,9 @@ the problem and its ultimate solution.
 
 ## Look for analogies(similarities)
 
-An _**analogy**_ in our case is a similarity between the current problem and a problem already solved that we can exploit to
-our advantage for the problem at hand. This is not always the case as these similarities can take on many forms;
+An _**analogy**_ in our case is a similarity between the current problem and a problem already solved that we can
+exploit to our advantage for the problem at hand. This is not always the case as these similarities can take on many
+forms;
 sometimes, these really could just be similar problems, but in a lot of cases we can find similarities only in sub
 problems (after we have taken the time and effort to break down these problems). Although recognising analogies is an
 important way to improve our problem-solving skills, it's also a difficult skill to develop. The reason it's so
@@ -101,8 +102,8 @@ is a decision we must consciously make. When we feel ourselves starting to get f
 remembering the techniques we have discussed, we should always have a plan, no plans are set in stone, if one fails, we
 should not hesitate to employ another, while writing code that solves a particular problem is the goal of a
 plan, it is not the only step of in that process. Thus, if we have a plan and are following it, then we are making
-progress
-and must believe this. If we run through all the steps in our original plan and are still not ready to start coding,
+progress and must believe this. If we run through all the steps in our original plan and are still not ready to start
+coding,
 then it's time to make another plan. Also, when it comes down to getting frustrated or taking a break, we should take
 break. A neat trick is to have multiple problems we are working on so that if we get stuck on one, we can jump to
 another one and direct our efforts there. Note that if we have successfully broken down our problem, we can block out
