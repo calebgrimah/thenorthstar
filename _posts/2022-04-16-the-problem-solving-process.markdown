@@ -107,7 +107,7 @@ coding,
 then it's time to make another plan. Also, when it comes down to getting frustrated or taking a break, we should take
 break. A neat trick is to have multiple problems we are working on so that if we get stuck on one, we can jump to
 another one and direct our efforts there. Note that if we have successfully broken down our problem, we can block out
-the part we got stuck on and work on a different portion. If we don't have any other problems to solve we can always
+the part we got stuck on and work on a different portion. If we don't have any other issues to solve we can always
 take a break by getting off our sit, doing a stretch, going on a walk, having a glass of water (we should always stay
 hydrated) the choice is ours to take.
 
