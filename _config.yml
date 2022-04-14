@@ -30,7 +30,7 @@ github_username:  thenorthstar93
 
 
 # Build settings
-#theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+#theme: no-style-please
 remote_theme: riggraz/no-style-please
 
 theme_config:
