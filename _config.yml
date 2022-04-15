@@ -22,7 +22,7 @@ title: thenorthstar
 author: Lamar Grimah
 email: lamar.grimah@gmail.com
 description: a journal for my thoughts and ideas.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/thenorthstar" # the subpath of your site, e.g. /blog
 url: "https://thenorthstar93.github.io/thenorthstar" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lamar.grimah
 github_username:  thenorthstar93
