@@ -4,8 +4,8 @@ title: What This Blog Is
 category: intro
 ---
 
-"Hello World", lamar here. I finally decided to start my personal blog(journal)😌. I would like tell you
-about my motivations for creating a blog and what the blog is about.
+"Hello World", lamar here. I finally decided to start my personal blog (journal)😌. I would like to tell you
+about my motivations for creating a blog and what its is about.
 
 ---
 {: data-content="The Why"}
