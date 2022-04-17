@@ -12,9 +12,9 @@ about my motivations for creating a blog and what its about.
 
 I always find myself learning about something new, reading about a new technology and then jotting down my findings' in
 notebooks that I cannot find half of the time😌, I thought, there should a better way to do this, create a blog, write
-about something new I am learning about, this way, I get to have better recall for whatever I am learning and also
-always have a reference to it whenever I need it, some of you might find my words useful which is a win-win situation
-for me.
+about something new I am learning about, this way, I get to have better recall for whatever I am learning at that moment
+and also always have a reference to it whenever I need it, plus, some of you might find my words useful which is a
+win-win situation for me.
 ---
 
 
