@@ -7,7 +7,7 @@ description: a journal for my thoughts and ideas.
 url: "https://thenorthstar.dev"
 twitter_username: lamar.grimah
 github_username:  calebgrimah
-
+repository: "thenorthstar"
 
 # Build settings
 remote_theme: riggraz/no-style-please
