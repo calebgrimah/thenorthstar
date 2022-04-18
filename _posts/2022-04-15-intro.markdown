@@ -24,4 +24,4 @@ ___
 This blog is a repository of my findings and learning as I try to grow and navigate my way around the world as an
 individual, software engineer. It is a place I can get to share my thoughts around any new technologies I encounter,
 situations, generally life as we know it. hopefully you might find it interesting too.
-
+ 
