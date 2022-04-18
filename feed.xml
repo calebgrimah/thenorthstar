@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.thenorthstar.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.thenorthstar.dev/" rel="alternate" type="text/html" /><updated>2022-04-18T18:42:41+00:00</updated><id>https://www.thenorthstar.dev/feed.xml</id><title type="html">thenorthstar</title><subtitle>a journal for my thoughts and ideas.</subtitle><author><name>Lamar Grimah</name></author><entry><title type="html">The problem-solving process</title><link href="https://www.thenorthstar.dev/problem-solving/2022/04/16/the-problem-solving-process.html" rel="alternate" type="text/html" title="The problem-solving process" /><published>2022-04-16T00:00:00+00:00</published><updated>2022-04-16T00:00:00+00:00</updated><id>https://www.thenorthstar.dev/problem-solving/2022/04/16/the-problem-solving-process</id><content type="html" xml:base="https://www.thenorthstar.dev/problem-solving/2022/04/16/the-problem-solving-process.html">&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It is better to solve one problem five different ways, than to solve five problems one way. George Polya&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The text below is a summary of general problem-solving techniques and principles that can be employed
+around any kind of problem, I am limiting my scope to just the domain of computer programming, this way we can always
+have a plan of attack anytime we are burdened with a problem to solve.&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#always-have-a-plan&quot;&gt;Always have a plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#restate-the-problem&quot;&gt;Restate the problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#break-down-the-problem&quot;&gt;Break down the problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#start-with-familiar-problems&quot;&gt;Start with familiar problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#look-for-analogiessimilarities&quot;&gt;Look for analogies(similarities)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#experiment&quot;&gt;Experiment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#dont-get-frustrated&quot;&gt;Don’t get frustrated&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;always-have-a-plan&quot;&gt;Always have a plan&lt;/h2&gt;
+
+&lt;p&gt;This should be considered as the most important rule when approaching a problem. Having a plan in mind is far more
+successful than just engaging in a directionless pursuit, hoping for a break at the end. This plan would usually always
+almost need an alteration along the line or may even need to be abandoned completely when more information about the
+problem is understood; A problem-solving approach without a plan is the equivalent of a monkey randomly typing out
+letters in the hope of producing Shakespeare (very unlikely😂). Planning allows us set indeterminate goals and achieve
+them, If we set out to solve a problem without a plan, our goal is &lt;strong&gt;“solve the whole problem”&lt;/strong&gt;. Until this ambiguous
+goal is reached, we would not have the feeling of making progress towards a solution (if any exists with this plan). A
+better approach is to create a plan with a series of minor goals, even if some feel unintuitive to the problem at hand,
+we would make measurable progress towards a solution and feel our time has been spent far more wisely.&lt;/p&gt;
+
+&lt;h2 id=&quot;restate-the-problem&quot;&gt;Restate the problem&lt;/h2&gt;
+
+&lt;p&gt;In some cases, a problem that seems very difficult may turn out to be easy when stated in a different way or using
+different terms. Restating an issue sometimes shows us a goal we set was not what we initially thought it was or meant
+in the context of the issue. This can be a very powerful technique, but we tend to skip it because it does not involve
+writing code or designing a solution to a problem. This is another reason why having a plan is essential. Without a
+plan, our only goal would be to have working code, and restating a problem is taking time away from writing code. With a
+plan, we can &lt;strong&gt;“formally restate the problem”&lt;/strong&gt; as our first goal towards a solution to a problem which counts as
+progress. Restating a problem can be a necessary prerequisite step before using other common techniques like dividing
+the problem. Restating can transform and bring to light more problem areas we weren’t privy to when we initially started
+the problem-solving process.&lt;/p&gt;
+
+&lt;h2 id=&quot;break-down-the-problem&quot;&gt;Break-down the problem&lt;/h2&gt;
+
+&lt;p&gt;When we are faced with a problem we find very difficult to solve, we can try a different approach by either reducing or
+increasing the constraints to create a new kind of problem we find familiar and have probably solved before. We do this
+to have as much in common with the original problem when working with this smaller sub-problem. The solution to the main
+problem is a combination of all the smaller sub problems. Breaking down a problem helps us pinpoint exactly where the
+major problem lies, we can then isolate that specific sub-problem and possibly seek help or further break it down into
+smaller problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;start-with-familiar-problems&quot;&gt;Start with familiar problems&lt;/h2&gt;
+
+&lt;p&gt;Generally when problem-solving, we should try to start with what we already know how to do and work outward from there.
+Once we have broken down the problems into pieces (sub-problems), we can look out for pieces we already know how to
+solve. Having a partial solution may spark ideas about the rest of the problem. A common theme with problem-solving is
+making useful progress towards solutions, so we can build our confidence and momentum that we would ultimately need to
+complete the task. At every point in our development as programmers, there are many skills we can do well, some with
+some effort, and then some others we don’t know yet. A particular problem may be entirely solvable with the skills we
+already have, or it may not, but we should fully investigate the problem using the skills we already know before looking
+elsewhere. When we begin our investigation of a problem by applying the skills we already have, we may learn more about
+the problem and its ultimate solution.&lt;/p&gt;
+
+&lt;h2 id=&quot;look-for-analogiessimilarities&quot;&gt;Look for analogies(similarities)&lt;/h2&gt;
+
+&lt;p&gt;An &lt;em&gt;&lt;strong&gt;analogy&lt;/strong&gt;&lt;/em&gt; in our case is a similarity between the current problem and a problem already solved that we can
+exploit to our advantage for the problem at hand. This is not always the case as these similarities can take on many
+forms;
+sometimes, these really could just be similar problems, but in a lot of cases we can find similarities only in sub
+problems (after we have taken the time and effort to break down these problems). Although recognising analogies is an
+important way to improve our problem-solving skills, it’s also a difficult skill to develop. The reason it’s so
+difficult &lt;strong&gt;at first&lt;/strong&gt; is that we can’t look out for analogies until we have a lot of solutions to problems under our
+belts, which a lot of programmers don’t have because it takes some time and effort to accomplish this. Working through
+the techniques we have discussed in when faced with difficult problems is a step towards gaining this skill.&lt;/p&gt;
+
+&lt;h2 id=&quot;experiment&quot;&gt;Experiment&lt;/h2&gt;
+
+&lt;p&gt;Sometimes the best way to make progress is to try things and observe the results. Note, experimentation isn’t the same
+as
+guessing. When we guess we type some code or even copy some code from the internet and hope it works having no strong
+belief that it will. An experiment is s controlled process, we hypothesize what will happen when certain code is
+executed, try it out and see whether our hypothesis is correct. From these observations, we gain information that will
+help us solve the original problem. The basic idea here is to expose any gaps in our understanding by experimenting with
+the problem on a far smaller scale than the original.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-get-frustrated&quot;&gt;Don’t get frustrated&lt;/h2&gt;
+
+&lt;p&gt;I cannot stress this enough, we should &lt;strong&gt;not&lt;/strong&gt; allow ourselves get frustrated (easier said than done😌). When we allow
+ourselves get frustrated, we cannot think clearly, we cannot work efficiently and everything will take longer and seem
+harder. Even worse, frustration tends to feed on itself, so that what begins as mild irritation ends as outright anger.
+When we allow ourselves to get frustrated, we are in effect, giving ourselves an excuse to continue to &lt;strong&gt;fail&lt;/strong&gt;. We are
+deciding that giving in to our anger was easier than facing the difficult problem. Ultimately then, avoiding frustration
+is a decision we must consciously make. When we feel ourselves starting to get frustrated, we should talk ourselves into
+remembering the techniques we have discussed, we should always have a plan, no plans are set in stone, if one fails, we
+should not hesitate to employ another, while writing code that solves a particular problem is the goal of a
+plan, it is not the only step of in that process. Thus, if we have a plan and are following it, then we are making
+progress and must believe this. If we run through all the steps in our original plan and are still not ready to start
+coding,
+then it’s time to make another plan. Also, when it comes down to getting frustrated or taking a break, we should take
+break. A neat trick is to have multiple problems we are working on so that if we get stuck on one, we can jump to
+another one and direct our efforts there. Note that if we have successfully broken down our problem, we can block out
+the part we got stuck on and work on a different portion. If we don’t have any other issues to solve we can always
+take a break by getting off our sit, doing a stretch, going on a walk, having a glass of water (we should always stay
+hydrated) the choice is ours to take.&lt;/p&gt;
+
+&lt;hr data-content=&quot;thank you👏&quot; /&gt;
+
+&lt;p&gt;Hey superstar problem solver! You made it to the end.&lt;/p&gt;
+
+&lt;p&gt;What do you think about the post? Have you noticed any mistakes? Did you enjoy the post? I’d love to hear from you: if
+you feel like it, just reach out to me through my &lt;a href=&quot;mailto:lamar.grimah@gmail.com&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moreover, I want to remind you of subscribing to my &lt;a href=&quot;https://tinyletter.com/thenorthstar&quot;&gt;newsletter&lt;/a&gt;
+or &lt;a href=&quot;/feed.xml&quot;&gt;RSS feed&lt;/a&gt;, in case you don’t want to miss future posts.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, see you soon!&lt;/p&gt;</content><author><name>Lamar Grimah</name></author><category term="problem-solving" /><summary type="html">It is better to solve one problem five different ways, than to solve five problems one way. George Polya</summary></entry><entry><title type="html">What This Blog Is</title><link href="https://www.thenorthstar.dev/intro/2022/04/15/intro.html" rel="alternate" type="text/html" title="What This Blog Is" /><published>2022-04-15T00:00:00+00:00</published><updated>2022-04-15T00:00:00+00:00</updated><id>https://www.thenorthstar.dev/intro/2022/04/15/intro</id><content type="html" xml:base="https://www.thenorthstar.dev/intro/2022/04/15/intro.html">&lt;p&gt;“Hello World”, lamar here. I finally decided to start my personal blog (journal)😌. I would like to tell you
+about my motivations for creating a blog and what its about.&lt;/p&gt;
+
+&lt;hr data-content=&quot;The Why&quot; /&gt;
+
+&lt;p&gt;I always find myself learning about something new, reading about a new technology and then jotting down my findings’ in
+notebooks that I cannot find half of the time😌, I thought, there should a better way to do this, create a blog, write
+about something new I am learning about, this way, I get to have better recall for whatever I am learning at that moment
+and also always have a reference to it whenever I need it, plus, some of you might find my words useful which is a
+win-win situation for me.
+—&lt;/p&gt;
+
+&lt;hr data-content=&quot;The What&quot; /&gt;
+
+&lt;p&gt;This blog is a repository of my findings and learning as I try to grow and navigate my way around the world as an
+individual, software engineer. It is a place I can get to share my thoughts around any new technologies I encounter,
+situations, generally life as we know it. hopefully you might find it interesting too.&lt;/p&gt;</content><author><name>Lamar Grimah</name></author><category term="intro" /><summary type="html">“Hello World”, lamar here. I finally decided to start my personal blog (journal)😌. I would like to tell you about my motivations for creating a blog and what its about.</summary></entry></feed>
