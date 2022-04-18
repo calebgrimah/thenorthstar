@@ -4,8 +4,8 @@ title: thenorthstar
 author: Lamar Grimah
 email: lamar.grimah@gmail.com
 description: a journal for my thoughts and ideas.
-baseurl: /thenorthstar
-url: https://www.thenorthstar.dev
+baseurl: "/thenorthstar"
+url: "https://www.thenorthstar.dev"
 twitter_username: lamar.grimah
 github_username:  calebgrimah
 
