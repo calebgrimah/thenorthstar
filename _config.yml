@@ -4,10 +4,10 @@ title: thenorthstar
 author: Lamar Grimah
 email: lamar.grimah@gmail.com
 description: a journal for my thoughts and ideas.
-url: "https://thenorthstar.dev"
+url: https://thenorthstar.dev
 twitter_username: lamar.grimah
 github_username:  calebgrimah
-repository: "thenorthstar"
+baseurl: "/thenorthstar"
 
 # Build settings
 remote_theme: riggraz/no-style-please
