@@ -165,6 +165,31 @@ img {
   color: white;
 }
 
+.profile-facts {
+  border: thin solid black;
+  margin: 1.5rem 0;
+}
+
+.profile-facts div {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 128px 1fr;
+  padding: 0.7rem 0.85rem;
+}
+
+.profile-facts div + div {
+  border-top: thin solid black;
+}
+
+.profile-facts dt {
+  font-weight: bold;
+}
+
+.profile-facts dd {
+  margin: 0;
+}
+
+.capability-grid,
 .portfolio-grid {
   display: grid;
   gap: 1rem;
@@ -172,18 +197,26 @@ img {
   margin-top: 1rem;
 }
 
+.capability-grid article,
 .portfolio-grid article {
   border: thin solid black;
   padding: 1rem;
 }
 
+.capability-grid h3,
 .portfolio-grid h3 {
   margin-top: 0;
+}
+
+.project-meta {
+  font-size: 0.9rem;
 }
 
 @media (max-width: 640px) {
   .profile-hero,
   .home-profile,
+  .profile-facts div,
+  .capability-grid,
   .portfolio-grid {
     grid-template-columns: 1fr;
   }
