@@ -15,6 +15,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
     </p>
     <p class="profile-actions">
       <a href="mailto:caleb.grimah@gmail.com">Email</a>
+      <a href="mailto:caleb.grimah@arcadereality.org">Alternate Email</a>
       <a href="https://github.com/calebgrimah">GitHub</a>
       <a href="https://www.linkedin.com/in/caleb-grimah-8678aa122/">LinkedIn</a>
       <a href="/assets/docs/caleb-grimah-resume.pdf">Resume</a>
@@ -46,6 +47,10 @@ I also use AI-assisted engineering workflows for code exploration, refactoring, 
   <div>
     <dt>Public links</dt>
     <dd><a href="https://thenorthstar.tech/calebgrimah/">thenorthstar.tech/calebgrimah</a> / <a href="https://github.com/calebgrimah">github.com/calebgrimah</a> / <a href="https://www.linkedin.com/in/caleb-grimah-8678aa122/">linkedin.com/in/caleb-grimah-8678aa122</a></dd>
+  </div>
+  <div>
+    <dt>Email</dt>
+    <dd><a href="mailto:caleb.grimah@gmail.com">caleb.grimah@gmail.com</a> / <a href="mailto:caleb.grimah@arcadereality.org">caleb.grimah@arcadereality.org</a></dd>
   </div>
 </dl>
 
@@ -162,6 +167,8 @@ Abuja, Nigeria, April 2018 - May 2019
 - Resume PDF: [https://thenorthstar.tech/assets/docs/caleb-grimah-resume.pdf](https://thenorthstar.tech/assets/docs/caleb-grimah-resume.pdf)
 - GitHub: [https://github.com/calebgrimah](https://github.com/calebgrimah)
 - LinkedIn: [https://www.linkedin.com/in/caleb-grimah-8678aa122/](https://www.linkedin.com/in/caleb-grimah-8678aa122/)
+- Primary email: [caleb.grimah@gmail.com](mailto:caleb.grimah@gmail.com)
+- Alternate email: [caleb.grimah@arcadereality.org](mailto:caleb.grimah@arcadereality.org)
 - Endeavor Streaming Vesper: [https://www.endeavorstreaming.com/platform/](https://www.endeavorstreaming.com/platform/)
 - Health-Mate on Google Play: [https://play.google.com/store/apps/details?id=ng.eha.healthmate&hl=en_GB](https://play.google.com/store/apps/details?id=ng.eha.healthmate&hl=en_GB)
 - EHA Clinics: [https://www.eha.care/](https://www.eha.care/)
@@ -194,6 +201,7 @@ Madonna University, Rivers, Nigeria
 For engineering roles, product work, consulting, or technical collaboration:
 
 - Email: [caleb.grimah@gmail.com](mailto:caleb.grimah@gmail.com)
+- Alternate email: [caleb.grimah@arcadereality.org](mailto:caleb.grimah@arcadereality.org)
 - GitHub: [@calebgrimah](https://github.com/calebgrimah)
 - LinkedIn: [Caleb Grimah](https://www.linkedin.com/in/caleb-grimah-8678aa122/)
 - Resume: [Download PDF](/assets/docs/caleb-grimah-resume.pdf)
