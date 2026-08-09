@@ -27,7 +27,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
 
 I am a senior software engineer with 5+ years of production experience across full-stack web development, React Native, native Android, Flutter, backend services, and connected-TV applications. I have worked on direct-to-consumer streaming platforms, patient-facing healthcare products, hospital operations systems, healthcare commerce, offline-first field applications, and business software for identity-management workflows.
 
-I work primarily with Kotlin, Java, JavaScript, TypeScript, React, React Native, Flutter, Node.js, Express, Spring Boot, REST APIs, and database-backed systems. I care about maintainable implementation, performance, reviewable architecture, testing, and practical delivery across real product constraints.
+I work primarily with Kotlin, Kotlin Multiplatform, Java, JavaScript, TypeScript, React, React Native, Flutter, Node.js, Express, Spring Boot, REST APIs, and database-backed systems. I care about maintainable implementation, performance, reviewable architecture, testing, and practical delivery across real product constraints.
 
 I also use AI-assisted engineering workflows for code exploration, refactoring, debugging, test generation, documentation, and technical research while keeping human review and production-quality judgment in the loop.
 
@@ -42,7 +42,7 @@ I also use AI-assisted engineering workflows for code exploration, refactoring, 
   </div>
   <div>
     <dt>Core stack</dt>
-    <dd>React Native, React, Android, Kotlin, Java, TypeScript, Node.js, Express, Spring Boot</dd>
+    <dd>React Native, React, Android, Kotlin, Kotlin Multiplatform, Java, TypeScript, Node.js, Express, Spring Boot</dd>
   </div>
   <div>
     <dt>Public links</dt>
@@ -96,7 +96,7 @@ Abuja, Nigeria, April 2018 - May 2019
 <div class="capability-grid">
   <article>
     <h3>Cross-platform product surfaces</h3>
-    <p>React Native, React, Flutter, and native Android interfaces for mobile, web, and TV contexts, with attention to input model, screen size, and release reliability.</p>
+    <p>React Native, React, Flutter, Kotlin Multiplatform, and native Android interfaces for mobile, web, and TV contexts, with attention to input model, screen size, and release reliability.</p>
   </article>
 
   <article>
@@ -179,7 +179,7 @@ Abuja, Nigeria, April 2018 - May 2019
 ## Technical Focus
 
 **Languages:** Kotlin, Java, JavaScript, TypeScript, Python, HTML, CSS  
-**Mobile:** React Native, native Android, Flutter  
+**Mobile:** React Native, native Android, Kotlin Multiplatform, Flutter  
 **Web and backend:** React, Node.js, Express, Spring Boot, REST APIs, database-backed services  
 **Engineering:** full-stack development, cross-platform development, offline-first architecture, responsive design, performance optimization, testing, debugging, code review, API integration, technical mentoring, AI-assisted development
 
