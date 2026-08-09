@@ -59,37 +59,69 @@ I also use AI-assisted engineering workflows for code exploration, refactoring, 
 **Senior Software Engineer, Endeavor Streaming**  
 Remote, October 2024 - Present
 
-- Build and ship production streaming experiences across mobile, web, and connected-TV platforms.
-- Develop reusable React Native and React features with JavaScript and TypeScript.
-- Adapt navigation, interaction patterns, and performance strategies across phones, browsers, and TV environments.
-- Work inside the Vesper direct-to-consumer video platform ecosystem: [https://www.endeavorstreaming.com/platform/](https://www.endeavorstreaming.com/platform/)
-- Review production code and mentor junior engineers through debugging, implementation feedback, and engineering best practices.
+Build and ship production streaming experiences across mobile, web, and connected-TV platforms, contributing to the Vesper direct-to-consumer video platform ecosystem.
+
+- Build and maintain React Native and React applications using JavaScript and TypeScript across phones, browsers, and large-screen television environments.
+- Develop reusable cross-platform components and features that adapt across device classes, screen sizes, input methods, navigation models, and performance constraints.
+- Implement and refine navigation, interaction patterns, layouts, and platform-aware user experiences for mobile, web, and connected-TV applications.
+- Diagnose production issues and optimize application performance across devices with different processing power, memory capacity, rendering capabilities, and network conditions.
+- Work across feature development, integration, testing, debugging, release, and production support to deliver reliable direct-to-consumer streaming experiences.
+- Review production code and provide implementation feedback focused on correctness, maintainability, performance, architecture, and engineering best practices.
+- Mentor junior engineers through code reviews, debugging sessions, technical guidance, implementation feedback, and knowledge sharing.
+- Collaborate with product, design, QA, and engineering teams throughout the development lifecycle to deliver production-ready features.
+- Use AI-assisted engineering workflows for code exploration, refactoring, debugging, test generation, documentation, and evaluating implementation approaches while keeping human review and production-quality standards in the loop.
+- Platform: [Vesper direct-to-consumer streaming platform](https://www.endeavorstreaming.com/platform/)
 
 ## Previous Experience
 
 **Software Engineer, eHealth Africa**  
 Kano, Nigeria, November 2019 - May 2024
 
-- Built and maintained healthcare software across mobile, web, backend, and cross-platform environments.
-- Developed Android and iOS experiences with React Native and Flutter, plus native Android features with Kotlin and Java.
-- Built React web interfaces and Node.js/Express backend services supporting REST APIs, data access, and product integrations.
-- Contributed to Health-Mate, Ehacare, and GetCare across patient, hospital, medication, appointment, and commerce workflows.
-- Worked across patient-facing and internal healthcare products connected to EHA Clinics: [https://www.eha.care/](https://www.eha.care/)
+Built and maintained production healthcare software across mobile, web, backend, and cross-platform environments, contributing to patient-facing products, healthcare operations, and digital commerce workflows connected to EHA Clinics.
+
+- Developed and maintained cross-platform mobile features for Android and iOS using React Native, plus additional mobile work across Flutter and native Android.
+- Integrated mobile workflows with REST APIs and backend services supporting patient, clinical, commerce, and healthcare operations.
+- Implemented healthcare workflows covering appointments, patient information, medical records, laboratory services, medication and pharmaceutical ordering, payments, telemedicine, and patient communication.
+- Built responsive web interfaces using React, JavaScript, and TypeScript for patient-facing and internal healthcare workflows.
+- Developed Node.js and Express backend services, including REST APIs, server-side business logic, data access, and application integrations.
+- Worked on Health-Mate, Ehacare, and GetCare across hospital management, patient engagement, online healthcare services, healthcare commerce, and transactional workflows.
+- Optimized application and database interactions to improve reliability, response times, and production behavior.
+- Investigated and resolved issues across frontend, backend, mobile, API, database, and integration layers.
+- Participated across requirements analysis, technical implementation, integration, testing, debugging, release, and ongoing production support.
+- Products: [Health-Mate](https://play.google.com/store/apps/details?id=ng.eha.healthmate&hl=en_GB), [EHA Clinics](https://www.eha.care/), [EHA Informatics](https://erp.eha.ng/services/informatics), and [GetCare](https://getcare.eha.ng/)
 
 **Android Developer, Teal Technology Service (IBM OCP JV)**  
 Abuja, Nigeria, April 2019 - April 2020
 
-- Developed Udongo, an offline-first Android application for agricultural extension agents.
-- Implemented local data workflows that remained usable without active internet connectivity and synchronized when connectivity returned.
-- Improved Android compatibility, responsiveness, debugging, and performance on constrained devices.
-- Package reference: `ng.udongo.android`
+Developed and maintained Udongo, an offline-first Android application designed to support agricultural extension agents operating in environments with limited or unreliable internet connectivity.
+
+- Designed and developed native Android features using the Android SDK, with a strong focus on reliability, usability, and performance on constrained mobile devices.
+- Built and maintained offline-first data workflows, enabling agricultural extension agents to capture, access, and manage information without an active internet connection.
+- Implemented local data persistence and background synchronization workflows to synchronize locally captured data with backend services when connectivity became available.
+- Designed application flows to handle intermittent connectivity, synchronization failures, retries, and data consistency without disrupting field operations.
+- Integrated application components with backend APIs and supported the end-to-end flow of data between mobile devices and remote services.
+- Improved Android version compatibility, application responsiveness, stability, and performance, particularly on lower-specification and resource-constrained devices.
+- Investigated and resolved application crashes, synchronization issues, device-specific bugs, and other production problems through systematic debugging and testing.
+- Worked closely with the team to translate requirements into production-ready mobile features and participated in implementation, integration, testing, debugging, and release activities.
+- Contributed to maintaining a reliable mobile experience for users working in remote and connectivity-constrained agricultural environments.
+- Application: `ng.udongo.android`
 
 **Software Engineer, Biosec Solutions**  
 Abuja, Nigeria, April 2018 - May 2019
 
-- Built full-stack business applications across frontend, backend, and persistence layers.
-- Participated in requirements analysis, architecture discussions, implementation, integration, testing, debugging, and release.
-- Company URL: [https://biosec.com.ng/](https://biosec.com.ng/)
+Built and maintained full-stack business applications spanning frontend, backend, mobile, and persistence layers, with a strong focus on secure, reliable, and offline-capable solutions for real-world business environments.
+
+- Designed and developed backend services and REST APIs using Spring Boot, implementing business logic, data access, integrations, authentication, and application workflows.
+- Developed native Android applications using the Android SDK and Kotlin/Java, delivering business-critical mobile applications for field and operational use.
+- Built offline-first applications capable of operating reliably in environments with limited or intermittent connectivity, including local data persistence, synchronization, and recovery workflows.
+- Integrated biometric and fingerprint hardware/software SDKs, including Neurotechnology fingerprint and biometric SDKs, to support biometric enrollment, identification, verification, and device integration.
+- Worked across the full application stack, including frontend interfaces, backend services, databases, APIs, third-party integrations, and mobile applications.
+- Participated throughout the software development lifecycle, including requirements analysis, technical design, architecture discussions, implementation, integration, testing, debugging, deployment, and release.
+- Designed and implemented integrations between mobile applications, backend services, biometric devices, and external systems while ensuring reliable communication and data consistency.
+- Investigated and resolved complex integration, performance, connectivity, and production issues across mobile, backend, database, and hardware-integration layers.
+- Collaborated with stakeholders and development teams to translate business requirements into maintainable technical solutions and production-ready features.
+- Contributed to improving application reliability, maintainability, and scalability through code reviews, refactoring, testing, debugging, and architectural improvements.
+- Company: [Biosec Solutions](https://biosec.com.ng/)
 
 ## What I Build
 
