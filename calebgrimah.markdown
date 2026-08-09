@@ -25,7 +25,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
 
 ## Profile
 
-I am a senior software engineer with 5+ years of production experience across full-stack web development, React Native, native Android, Flutter, backend services, and connected-TV applications. I have worked on direct-to-consumer streaming platforms, patient-facing healthcare products, hospital operations systems, healthcare commerce, offline-first field applications, and business software for identity-management workflows.
+I am a senior software engineer with 7+ years of experience building production web, mobile, backend, and connected-TV applications, with expertise across Kotlin, Java, React Native, React, Flutter, TypeScript, Node.js, and Spring Boot. I have worked across streaming, healthcare, e-commerce, offline-first systems, and biometric integrations.
 
 I work primarily with Kotlin, Kotlin Multiplatform, Java, JavaScript, TypeScript, React, React Native, Flutter, Node.js, Express, Spring Boot, REST APIs, and database-backed systems. I care about maintainable implementation, performance, reviewable architecture, testing, and practical delivery across real product constraints.
 
