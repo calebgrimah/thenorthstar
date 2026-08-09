@@ -16,6 +16,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
     <p class="profile-actions">
       <a href="mailto:caleb.grimah@gmail.com">Email</a>
       <a href="https://github.com/calebgrimah">GitHub</a>
+      <a href="https://www.linkedin.com/in/caleb-grimah-8678aa122/">LinkedIn</a>
       <a href="/assets/docs/caleb-grimah-resume.pdf">Resume</a>
     </p>
   </div>
@@ -25,7 +26,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
 
 I am a senior software engineer with 5+ years of production experience across full-stack web development, React Native, native Android, Flutter, backend services, and connected-TV applications. I have worked on direct-to-consumer streaming platforms, patient-facing healthcare products, hospital operations systems, healthcare commerce, offline-first field applications, and business software for identity-management workflows.
 
-I work primarily with Kotlin, Java, JavaScript, TypeScript, React, React Native, Flutter, Node.js, Express, REST APIs, and database-backed systems. I care about maintainable implementation, performance, reviewable architecture, testing, and practical delivery across real product constraints.
+I work primarily with Kotlin, Java, JavaScript, TypeScript, React, React Native, Flutter, Node.js, Express, Spring Boot, REST APIs, and database-backed systems. I care about maintainable implementation, performance, reviewable architecture, testing, and practical delivery across real product constraints.
 
 I also use AI-assisted engineering workflows for code exploration, refactoring, debugging, test generation, documentation, and technical research while keeping human review and production-quality judgment in the loop.
 
@@ -40,11 +41,11 @@ I also use AI-assisted engineering workflows for code exploration, refactoring, 
   </div>
   <div>
     <dt>Core stack</dt>
-    <dd>React Native, React, Android, Kotlin, Java, TypeScript, Node.js, Express</dd>
+    <dd>React Native, React, Android, Kotlin, Java, TypeScript, Node.js, Express, Spring Boot</dd>
   </div>
   <div>
     <dt>Public links</dt>
-    <dd><a href="https://thenorthstar.tech/calebgrimah/">thenorthstar.tech/calebgrimah</a> / <a href="https://github.com/calebgrimah">github.com/calebgrimah</a></dd>
+    <dd><a href="https://thenorthstar.tech/calebgrimah/">thenorthstar.tech/calebgrimah</a> / <a href="https://github.com/calebgrimah">github.com/calebgrimah</a> / <a href="https://www.linkedin.com/in/caleb-grimah-8678aa122/">linkedin.com/in/caleb-grimah-8678aa122</a></dd>
   </div>
 </dl>
 
@@ -95,7 +96,7 @@ Abuja, Nigeria, April 2018 - May 2019
 
   <article>
     <h3>Backend-connected applications</h3>
-    <p>Node.js, Express, REST API integration, data access flows, transactional workflows, and client/server debugging across production web and mobile products.</p>
+    <p>Node.js, Express, Spring Boot, REST API integration, data access flows, transactional workflows, and client/server debugging across production web and mobile products.</p>
   </article>
 
   <article>
@@ -160,6 +161,7 @@ Abuja, Nigeria, April 2018 - May 2019
 - Portfolio page: [https://thenorthstar.tech/calebgrimah/](https://thenorthstar.tech/calebgrimah/)
 - Resume PDF: [https://thenorthstar.tech/assets/docs/caleb-grimah-resume.pdf](https://thenorthstar.tech/assets/docs/caleb-grimah-resume.pdf)
 - GitHub: [https://github.com/calebgrimah](https://github.com/calebgrimah)
+- LinkedIn: [https://www.linkedin.com/in/caleb-grimah-8678aa122/](https://www.linkedin.com/in/caleb-grimah-8678aa122/)
 - Endeavor Streaming Vesper: [https://www.endeavorstreaming.com/platform/](https://www.endeavorstreaming.com/platform/)
 - Health-Mate on Google Play: [https://play.google.com/store/apps/details?id=ng.eha.healthmate&hl=en_GB](https://play.google.com/store/apps/details?id=ng.eha.healthmate&hl=en_GB)
 - EHA Clinics: [https://www.eha.care/](https://www.eha.care/)
@@ -171,7 +173,7 @@ Abuja, Nigeria, April 2018 - May 2019
 
 **Languages:** Kotlin, Java, JavaScript, TypeScript, Python, HTML, CSS  
 **Mobile:** React Native, native Android, Flutter  
-**Web and backend:** React, Node.js, Express, REST APIs, database-backed services  
+**Web and backend:** React, Node.js, Express, Spring Boot, REST APIs, database-backed services  
 **Engineering:** full-stack development, cross-platform development, offline-first architecture, responsive design, performance optimization, testing, debugging, code review, API integration, technical mentoring, AI-assisted development
 
 ## How I Work
@@ -193,4 +195,5 @@ For engineering roles, product work, consulting, or technical collaboration:
 
 - Email: [caleb.grimah@gmail.com](mailto:caleb.grimah@gmail.com)
 - GitHub: [@calebgrimah](https://github.com/calebgrimah)
+- LinkedIn: [Caleb Grimah](https://www.linkedin.com/in/caleb-grimah-8678aa122/)
 - Resume: [Download PDF](/assets/docs/caleb-grimah-resume.pdf)
