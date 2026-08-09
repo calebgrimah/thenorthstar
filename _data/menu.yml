@@ -7,9 +7,14 @@ entries:
   #      show_more_url: archive.html
 
   - title: me
+    url: /calebgrimah/
     entries:
+      - title: profile / portfolio
+        url: /calebgrimah/
+      - title: resume
+        url: /assets/docs/caleb-grimah-resume.pdf
       - title: email
-        url: mailto:lamar.grimah@gmail.com
+        url: mailto:caleb.grimah@gmail.com
       - title: "github:<a href='https://github.com/calebgrimah'>@calebgrimah</a>"
       - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
 #        url: https://github.com/thenorthstar93 and https://github.com/calebgrimah

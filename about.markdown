@@ -2,17 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+redirect_to: /calebgrimah/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Caleb Grimah, a senior software engineer building production software across mobile, web, backend, and connected-TV platforms.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My complete developer profile and portfolio lives at [thenorthstar.tech/calebgrimah](/calebgrimah/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can also reach me by email at [caleb.grimah@gmail.com](mailto:caleb.grimah@gmail.com) or view my work on [GitHub](https://github.com/calebgrimah).

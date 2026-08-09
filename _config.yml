@@ -22,6 +22,7 @@ theme_config:
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
 
 
