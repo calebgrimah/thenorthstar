@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What This Blog Is
+description: Why I started this journal — a place to make sense of what I learn, keep useful notes, and share ideas about software and life.
 category: intro
 ---
 

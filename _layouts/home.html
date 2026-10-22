@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-<header>
-  <h1>{{ site.title }}</h1>
-  {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
-  {%-endif-%}
-</header>
-
-{%-include menu_item.html collection=site.data.menu.entries-%}
-
-{{ content }}
+<div class="portfolio-home">
+  <a class="skip-link" href="#me">Skip to content</a>
+  <header class="home-header">
+    <a class="site-name" href="{{ '/' | relative_url }}">thenorthstar<span aria-hidden="true">*</span></a>
+    <nav aria-label="Main navigation">
+      <a href="#work">Work</a>
+      <a href="{{ '/calebgrimah/' | relative_url }}">About</a>
+      <a href="{{ '/journal/' | relative_url }}">Journal</a>
+    </nav>
+  </header>
+  {{ content }}
+  <footer class="home-footer">
+    <span>Caleb Grimah · Abuja, Nigeria</span>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  </footer>
+</div>

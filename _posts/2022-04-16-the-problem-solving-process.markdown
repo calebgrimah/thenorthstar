@@ -2,6 +2,7 @@
 layout: post
 category: problem-solving
 title: The problem-solving process
+description: A practical approach to programming problems, from making a plan and breaking things down to experimenting and knowing when to take a break.
 ---
 
 ---
@@ -86,7 +87,7 @@ the techniques we have discussed in when faced with difficult problems is a step
 Sometimes the best way to make progress is to try things and observe the results. Note, experimentation isn't the same
 as
 guessing. When we guess we type some code or even copy some code from the internet and hope it works having no strong
-belief that it will. An experiment is s controlled process, we hypothesize what will happen when certain code is
+belief that it will. An experiment is a controlled process, we hypothesize what will happen when certain code is
 executed, try it out and see whether our hypothesis is correct. From these observations, we gain information that will
 help us solve the original problem. The basic idea here is to expose any gaps in our understanding by experimenting with
 the problem on a far smaller scale than the original.
@@ -119,9 +120,8 @@ hydrated) the choice is ours to take.
 Hey superstar problem solver! You made it to the end.
 
 What do you think about the post? Have you noticed any mistakes? Did you enjoy the post? I'd love to hear from you: if
-you feel like it, just reach out to me through my [email](mailto:lamar.grimah@gmail.com).
+you feel like it, just reach out to me through my [email](mailto:caleb.grimah@gmail.com).
 
-Moreover, I want to remind you of subscribing to my [newsletter](https://tinyletter.com/thenorthstar)
-or [RSS feed](/feed.xml), in case you don't want to miss future posts.
+Follow the [RSS feed]({{ '/feed.xml' | relative_url }}) to read future posts in your feed reader.
 
 Thanks for reading, see you soon!

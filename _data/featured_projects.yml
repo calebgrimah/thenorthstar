@@ -1,0 +1,69 @@
+- id: astera
+  title: Astera
+  image: /assets/images/projects/astera-dashboard.webp
+  image_alt: Astera brand workspace with campaign budgets, performance charts, and creator activity
+  image_width: 1200
+  image_height: 779
+  detail_image: /assets/images/projects/astera-mobile.webp
+  detail_image_alt: Astera creator app showing earnings, campaigns, and available briefs
+  detail_image_width: 360
+  detail_image_height: 803
+  image_caption: Brand workspace and creator app design previews · sample data
+  url: https://astera.africa
+  link_text: Explore Astera
+  summary: A creator-marketing platform connecting brands and creators in Nigeria. Campaign briefs, content review, results tracking, and payments in one workspace.
+  overview: I’m building Astera to connect the full campaign workflow, from a brand’s brief and budget to creator submissions, performance checks, and payouts. Separate brand, creator, and administrative experiences share the same campaign and payment systems.
+  stack: React / React Native / TypeScript / Kotlin / Spring Boot
+  highlights:
+    - label: Campaign operations
+      text: Briefs, eligibility rules, budgets, creator applications, and submission review, with approval and correction workflows.
+    - label: Measurement and money
+      text: Results tracking, campaign spending limits, transaction history, and creator wallets that separate pending earnings from available funds.
+    - label: Across platforms
+      text: A React web workspace, React Native mobile application, and administrative tools connected to Kotlin and Spring Boot services.
+- id: omari
+  title: Omari
+  image: /assets/images/projects/omari-mobile.webp
+  image_alt: Original Omari customer app mockup showing the home screen, business discovery, and delivery updates
+  image_width: 480
+  image_height: 958
+  detail_image: /assets/images/projects/omari-storefront.webp
+  detail_image_alt: Original Omari customer app mockup showing a business storefront, service listings, and appointment booking
+  detail_image_width: 480
+  detail_image_height: 958
+  image_caption: Original customer app mockups · Home and business storefront · sample data
+  link_text: Ask me about Omari
+  url: mailto:caleb.grimah@gmail.com?subject=Omari%20project
+  summary: A platform for Nigerian businesses, bringing bookings, commerce, payments, delivery, and analytics together across customer, business, and rider experiences.
+  overview: I’m building Omari around the everyday operations of service and retail businesses. A customer can discover a business, book a service or place an order, while the business manages its catalog, schedule, fulfillment, and reporting from connected tools.
+  stack: Kotlin Multiplatform / Compose Multiplatform / React / Spring Boot
+  highlights:
+    - label: Business workflows
+      text: Product catalogs, inventory, orders, appointments, reservations, and staff scheduling for different kinds of businesses.
+    - label: Connected experiences
+      text: Customer, business, and rider applications connect ordering and bookings with payments, delivery, and operational reporting.
+    - label: Shared foundations
+      text: Kotlin Multiplatform and Compose Multiplatform applications, React web and administrative interfaces, and Kotlin/Spring Boot backend services.
+- id: arcadereality
+  title: ArcadeReality
+  url: https://arcadereality.org
+  link_text: Visit ArcadeReality
+  image: /assets/images/projects/arcadereality-desktop.webp
+  image_alt: ArcadeReality engineering studio website showing its service introduction and interactive code presentation
+  image_width: 1200
+  image_height: 833
+  detail_image: /assets/images/projects/arcadereality-mobile.webp
+  detail_image_alt: Mobile view of the ArcadeReality engineering studio homepage
+  detail_image_width: 320
+  detail_image_height: 693
+  image_caption: Desktop and mobile previews of the live ArcadeReality website
+  summary: A website I built for ArcadeReality, a senior engineering studio. It brings together engineering services, product case studies, technical writing, and a project inquiry flow.
+  overview: I built ArcadeReality’s public website to give the engineering studio a clear home for its services, work, and technical perspective. Visitors can explore engagement options, read case studies for Astera, Omari, and MakersMark, browse engineering articles, and outline a project through a structured inquiry form.
+  stack: Responsive web / Case studies / Technical publishing / Project inquiries
+  highlights:
+    - label: Studio capabilities
+      text: Six engagement tracks covering product engineering, infrastructure, AI systems, security, legacy modernization, and platform development, alongside the studio’s delivery process.
+    - label: Work and technical writing
+      text: Product case studies and engineering articles covering architecture, Kotlin Multiplatform, commerce systems, payments, and integrations.
+    - label: Responsive project discovery
+      text: Desktop and mobile layouts, an interactive code presentation, and an inquiry form that collects the engagement track, budget range, timeline, project brief, and optional attachment.

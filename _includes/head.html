@@ -14,6 +14,11 @@
   {%-seo title=false-%}
   {%-feed_meta-%}
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+  <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.svg" | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  {% if page.layout == 'home' %}
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}" />
+  {% else %}
+  <link rel="stylesheet" href="{{ '/assets/css/interior.css' | relative_url }}" />
+  {% endif %}
 </head>

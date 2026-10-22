@@ -1,0 +1,12 @@
+<article id="{{ include.project.id }}">
+  <h3>{{ include.project.title }}</h3>
+  {% include project_media.html project=include.project %}
+  <p>{{ include.project.overview }}</p>
+  <ul>
+    {% for highlight in include.project.highlights %}
+    <li><strong>{{ highlight.label }}.</strong> {{ highlight.text }}</li>
+    {% endfor %}
+  </ul>
+  <p class="project-meta">{{ include.project.stack }}</p>
+  <p><a href="{{ include.project.url }}">{{ include.project.link_text }} <span aria-hidden="true">↗</span></a></p>
+</article>
