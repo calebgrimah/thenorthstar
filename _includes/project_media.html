@@ -1,0 +1,7 @@
+<figure class="project-media project-media--{{ include.project.id }}">
+  <div class="project-media-stage">
+    <img class="project-media-main" src="{{ include.project.image | relative_url }}" alt="{{ include.project.image_alt }}" width="{{ include.project.image_width }}" height="{{ include.project.image_height }}" loading="lazy" decoding="async" />
+    <img class="project-media-detail" src="{{ include.project.detail_image | relative_url }}" alt="{{ include.project.detail_image_alt }}" width="{{ include.project.detail_image_width }}" height="{{ include.project.detail_image_height }}" loading="lazy" decoding="async" />
+  </div>
+  <figcaption>{{ include.project.image_caption }}</figcaption>
+</figure>

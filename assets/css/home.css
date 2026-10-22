@@ -1,0 +1,98 @@
+.portfolio-home { position: relative; z-index: 1; }
+.home-header, .home-header nav, .intro-actions, .social-links, .home-footer { display: flex; align-items: center; gap: 1.25rem; }
+.home-header { justify-content: space-between; flex-wrap: wrap; }
+.home-header a { text-decoration: none; padding: .6rem 0; }
+.site-name { font-weight: bold; }
+.site-name span { color: var(--accent); margin-left: 3px; }
+.home-intro { padding: 5rem 0 6rem; }
+.intro-heading { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1.75rem; }
+.intro-heading > div { min-width: 0; flex: 1; }
+.portfolio-home h1 { font-size: clamp(1.8rem, 4vw, 2.65rem); line-height: 1.15; letter-spacing: -.035em; margin: 0 0 .6rem; }
+.intro-role { color: var(--accent); font-size: 1rem; margin: 0 0 .4rem; }
+.intro-location { color: var(--muted); font-size: .875rem; margin: 0; }
+.intro-description { max-width: 65ch; margin: 0; }
+.intro-actions { margin-top: 1.5rem; flex-wrap: wrap; }
+.intro-actions a { padding: .4rem 0; }
+.primary-link { font-weight: bold; color: var(--accent); }
+.primary-link span { margin-left: .4rem; }
+.section-heading { display: flex; justify-content: space-between; align-items: baseline; gap: .5rem 1rem; flex-wrap: wrap; }
+.portfolio-home h2 { font-size: 1.45rem; margin: 0; line-height: 1.4; color: var(--accent); }
+.section-heading > a { font-size: .875rem; }
+.work-entry { margin-top: 3.25rem; max-width: 70ch; }
+.work-entry h3 { font-size: 1.125rem; margin: 0 0 .85rem; }
+.work-entry h3 a { text-decoration: none; }
+.work-entry h3 a:hover { text-decoration: underline; }
+.work-entry p { margin: 1.25rem 0; }
+.work-entry .work-stack { color: var(--muted); font-size: .875rem; }
+.work-details { display: inline-block; font-size: .875rem; padding: .35rem 0; }
+.home-practice { margin-top: 7rem; padding: 2.5rem; background: var(--sage-field); }
+.home-practice p { margin: 1rem 0; max-width: 70ch; }
+.home-practice a { font-size: .875rem; }
+.home-notes { margin-top: 6rem; padding: 2.5rem; background: var(--sand-field); }
+.home-notes h2, .home-notes .section-heading > a { color: var(--ochre); }
+.home-notes > p { color: var(--muted); }
+.recent-notes { list-style: none; padding: 0; margin: 1.5rem 0 0; }
+.recent-notes li { display: flex; justify-content: space-between; align-items: baseline; gap: .5rem 1.5rem; margin: 1.25rem 0; }
+.recent-notes time { color: var(--muted); font-size: .875rem; white-space: nowrap; }
+.home-contact { margin-top: 7rem; padding: 2.5rem; background: var(--rose-field); }
+.home-contact h2, .contact-email { color: var(--rose); }
+.home-contact p { max-width: 65ch; }
+.contact-email { display: inline-block; overflow-wrap: anywhere; }
+.social-links { margin-top: 1.25rem; }
+.home-footer { margin-top: 4rem; flex-wrap: wrap; font-size: .875rem; color: var(--muted); padding-bottom: 1rem; gap: 1rem; }
+.home-footer > span { margin-right: auto; }
+.skip-link { position: fixed; top: -100px; background: var(--paper); padding: 1rem; z-index: 5; }
+.skip-link:focus { top: 1rem; }
+@media (max-width: 700px) {
+  .home-header nav { gap: 1rem; font-size: .875rem; }
+  .home-intro { padding: 3.5rem 0 4.5rem; }
+  .intro-heading { gap: 1.25rem; align-items: flex-start; }
+  .intro-location { max-width: 27ch; }
+  .recent-notes li { flex-wrap: wrap; }
+  .home-practice, .home-notes { margin-top: 4.5rem; padding: 1.5rem; }
+  .home-contact { margin-top: 4.5rem; padding: 1.5rem; }
+  .work-entry { margin-top: 2.75rem; }
+}
+
+.section-intro { margin-top: 1rem; color: var(--muted); max-width: 60ch; }
+.work-entry--astera h3, .work-entry--astera .work-details { color: var(--accent); }
+.work-entry--omari h3, .work-entry--omari .work-details { color: var(--rose); }
+
+/* Color introduces each chapter; the reading surfaces remain quiet. */
+.home-work > .section-heading { padding: 1.5rem 2rem; background: var(--blue-field); }
+.home-work > .section-heading h2, .home-work > .section-heading a { color: var(--blue-ink); }
+.home-work > .section-intro { margin: 1.25rem 0 0; }
+.intro-actions .primary-link { padding: .65rem 1rem; background: var(--accent); color: var(--paper); text-decoration: none; }
+.intro-actions .primary-link:hover { background: #1d4e3c; }
+.work-entry:not(.work-entry--astera):not(.work-entry--omari):not(.work-entry--arcadereality) h3 { color: var(--blue-ink); }
+@media (max-width: 700px) { .home-work > .section-heading { padding: 1.25rem 1.5rem; } }
+
+/* One rich opening field; project imagery supplies the rest of the color. */
+.home-intro { margin-top: 3rem; padding: 2.75rem; background: var(--hero-field); color: var(--hero-ink); }
+.home-intro .intro-role { color: var(--lime); }
+.home-intro .intro-location { color: #cbdccf; }
+.home-intro .intro-description { max-width: 62ch; line-height: 1.8; }
+.home-intro .intro-actions .primary-link { background: var(--lime); color: var(--hero-field); }
+.home-intro .intro-actions .primary-link:hover { background: #f1f5c7; }
+.home-intro a:hover { color: var(--lime); }
+.home-intro a:focus-visible { outline-color: var(--lime); }
+.home-work { margin-top: 5rem; }
+.home-work > .section-heading { background: transparent; padding: 0; }
+.home-work > .section-heading h2 { color: var(--accent); }
+.work-entry--astera, .work-entry--omari { max-width: none; margin-top: 3.5rem; }
+.work-entry--astera h3, .work-entry--omari h3 { font-size: 1.45rem; }
+.more-work-title { color: var(--blue-ink); font-size: 1.125rem; margin: 5rem 0 0; }
+@media (max-width: 700px) {
+  .home-intro { margin-top: 2rem; padding: 1.5rem; }
+  .intro-heading { flex-wrap: wrap; gap: 1rem; }
+  .intro-heading .portrait { width: 72px; }
+  .intro-heading .portrait img { width: 72px; height: 90px; }
+  .home-work { margin-top: 4rem; }
+  .home-work > .section-heading { padding: 0; }
+}
+
+.contact-emails { display: flex; flex-direction: column; align-items: flex-start; gap: .85rem; }
+.contact-emails .contact-email { max-width: 100%; }
+.work-entry--arcadereality h3, .work-entry--arcadereality .work-details { color: #963f19; }
+.work-entry--arcadereality { max-width: none; }
+.work-entry--arcadereality h3 { font-size: 1.45rem; }

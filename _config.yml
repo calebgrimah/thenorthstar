@@ -1,9 +1,9 @@
 
 
 title: thenorthstar
-author: Lamar Grimah
-email: lamahgrimah@gmail.com
-description: a journal for my thoughts and ideas.
+author: Caleb Grimah
+email: caleb.grimah@gmail.com
+description: Caleb Grimah — software engineer building across mobile, web, backend, and connected TV.
 baseurl: ""
 url: "https://thenorthstar.tech"
 twitter_username: lamar.grimah
@@ -11,7 +11,7 @@ github_username:  calebgrimah
 
 
 # Build settings
-remote_theme: riggraz/no-style-please
+# The original minimal theme styles are maintained locally in _sass/.
 
 theme_config:
   appearance: "light"
@@ -48,3 +48,16 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Keep build tools and full-resolution source media out of the published site.
+exclude:
+  - .jekyll-cache
+  - .sass-cache
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - assets/images/caleb-grimah-profile-original.JPG
+  - README.md
+  - scripts
+sass:
+  style: compressed

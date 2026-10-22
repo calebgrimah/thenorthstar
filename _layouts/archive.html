@@ -1,9 +1,19 @@
 ---
 layout: default
 ---
-
-{%-include back_link.html-%}
-
 <h1>{{ page.title }}</h1>
-
-{%-include post_list.html category=page.which_category-%}
+<p class="archive-intro">Notes on software, problem solving, and learning along the way.</p>
+{{ content }}
+<div class="journal-archive">
+  {% if page.which_category %}{% assign entries = site.categories[page.which_category] %}{% else %}{% assign entries = site.posts %}{% endif %}
+  {% for post in entries %}
+  <article class="journal-entry">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}</p>
+    <a href="{{ post.url | relative_url }}">Read article <span aria-hidden="true">↗</span><span class="sr-only">: {{ post.title }}</span></a>
+  </article>
+  {% else %}
+  <p>No entries yet. <a href="{{ '/' | relative_url }}">Explore my work</a> in the meantime.</p>
+  {% endfor %}
+</div>
