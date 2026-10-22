@@ -40,3 +40,7 @@ python3 scripts/check_site.py /tmp/thenorthstar-preview --baseurl /preview
 The Astera previews come from `astera-frontend/docs/uiux/brand-dashbaord-overview.png` and `astera-frontend/apps/web/public/landing/app-home.webp` in the neighboring Astera checkout. The Omari previews are clean captures of the Home and Business artboards in `omari-app/docs/uiux/omari-customer-application-template.html` in the neighboring Omari checkout. They retain the original phone mockups and interface designs. They are design previews with sample data, not portfolio usage statistics. Optimized WebP copies live in `assets/images/projects/`; originals are unchanged.
 
 The ArcadeReality previews were captured directly from https://arcadereality.org at desktop and mobile widths. Its project description is based on the public site’s services, case studies, engineering articles, and inquiry form.
+
+## Deployment
+
+Pull requests targeting `master` build and validate the site with Ruby 3.3. Merging into `master` runs the same build and publishes its checked output to `gh-pages`, the existing GitHub Pages source branch. `CNAME` preserves `thenorthstar.tech`. Pull requests do not publish to the live site.
