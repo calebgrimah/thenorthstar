@@ -15,7 +15,7 @@ description: Senior software engineer building mobile, web, backend, and connect
   <p class="intro-description">I build complete products — from the interface in your hand to the services behind it. My work spans streaming, healthcare, and business software across mobile, web, and connected TV. I’m currently building Astera for creator campaigns and Omari for everyday business operations.</p>
   <div class="intro-actions">
     <a class="primary-link" href="#work">Explore my work <span aria-hidden="true">↓</span></a>
-    <a href="{{ '/assets/docs/CalebGrimahMainMasterResume.pdf' | relative_url }}">Resume</a>
+    <a href="{{ '/assets/docs/CalebGrimahMainRobustResume.pdf' | relative_url }}">Resume</a>
   </div>
 </section>
 

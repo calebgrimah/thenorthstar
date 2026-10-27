@@ -17,7 +17,7 @@ description: Senior Software Engineer specializing in full-stack product enginee
       <a href="mailto:caleb.grimah@arcadereality.org">Alternate Email</a>
       <a href="https://github.com/calebgrimah">GitHub</a>
       <a href="https://www.linkedin.com/in/caleb-grimah-8678aa122/">LinkedIn</a>
-      <a href="{{ '/assets/docs/CalebGrimahMainMasterResume.pdf' | relative_url }}">Resume</a>
+      <a href="{{ '/assets/docs/CalebGrimahMainRobustResume.pdf' | relative_url }}">Resume</a>
     </p>
   </div>
 </section>
